@@ -1,4 +1,4 @@
-# Teste Automatizado DOTS | Cypress + Cucumber + Page Objects 
+# Teste Automatizado DOT | Cypress + Cucumber + Page Objects 
 
 ## Introdução
 Este projeto implementa testes automatizados utilizando o **Cypress** e o **Cucumber**, seguindo o padrão de projeto **Page Object Model (POM)**. 
